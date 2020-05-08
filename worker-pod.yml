@@ -9,4 +9,3 @@ spec:
   containers:
     - name: worker
       image: dockersamples/examplevotingapp_worker
-      ockersamples/examplevotingapp_worker
