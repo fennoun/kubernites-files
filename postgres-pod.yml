@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: postgres
   labels:
-    name: postgres
+    app: postgres
     type: backend
 spec:
   containers:
