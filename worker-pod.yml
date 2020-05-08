@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: worker
   labels:
-    name: worker
+    app: worker
     type: backend
 spec:
   containers:

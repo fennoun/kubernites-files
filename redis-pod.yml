@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: redis
   labels:
-    name: redis
+    app: redis
     type: backend
 spec:
   containers:
