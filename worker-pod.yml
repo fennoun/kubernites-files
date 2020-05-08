@@ -7,5 +7,6 @@ metadata:
     type: backend
 spec:
   containers:
-    - name: vote
+    - name: worker
       image: dockersamples/examplevotingapp_worker
+      ockersamples/examplevotingapp_worker
