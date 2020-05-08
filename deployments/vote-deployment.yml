@@ -9,8 +9,8 @@ spec:
     metadata:
       name: vote
       labels:
-      app: vote
-      type: frontend
+        app: vote
+        type: frontend
     spec:
       containers:
       - name: vote
